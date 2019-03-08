@@ -6,20 +6,21 @@ The dynamics discussion group meets Tuesdays at 3pm in Pratt conference room.
 Spring 2019
 -----------
 
-**Feb 19:** Intro to Delauney variables and perturbation theory
----------------------------------------------------------------
+ - **Feb 19:** Intro to Delauney variables and perturbation theory.
 
- - **reading:** Chapters 1 & 2 of `Morbidelli's book`_
- - **codes:** Check out celmech_ for computing & integrating normal forms
+        **reading:** Chapters 1 & 2 of `Morbidelli's book`_
 
-**Mar 05:** Secular dynamics in heriarchical triples
-----------------------------------------------------
- - **reading:** `Naoz et. al. 2013`_
+        **codes:** Check out celmech_ for computing & integrating normal forms
 
-**Mar 12:** Secular dynamics in triples, part II
-------------------------------------------------
- - **reading:** `Lithwick & Naoz 2011`_
- - **codes:** `eccentric KL notebook`_
+ - **Mar 05:** Secular dynamics in heriarchical triples
+
+        **reading:** `Naoz et. al. 2013`_
+
+ - **Mar 12:** Secular dynamics in triples, part II
+
+        **reading:** `Lithwick & Naoz 2011`_
+
+        **codes:** `eccentric KL notebook`_
 
 .. _Morbidelli's book: https://www-n.oca.eu/morby/celmech.pdf
 .. _Morbidelli's book: https://www-n.oca.eu/morby/celmech.pdf
