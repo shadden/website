@@ -36,6 +36,12 @@ Spring 2019
 
         **presenter:** Scott Kenyon
 
+ - **May 14:** 
+
+        **reading:** Hybrid symplectic integrators for planetary dynamics (`Rein et. al. 2019`_)
+
+        **presenter:** Terry-Ann Suer
+
 .. _The Dynamical Architecture of the Circumbinary Satellite System: https://ui.adsabs.harvard.edu/#abs/2019AJ....157...79K/abstract
 .. _Dynamical Limits on the Masses of the Small Satellites: https://ui.adsabs.harvard.edu/#abs/2019arXiv190304520K/abstract
 .. _Morbidelli's book: https://www-n.oca.eu/morby/celmech.pdf
@@ -46,3 +52,4 @@ Spring 2019
 .. _celmech: https://github.com/shadden/celmech
 .. _Part I: https://ui.adsabs.harvard.edu/abs/2019arXiv190201344H/abstract
 .. _II: https://ui.adsabs.harvard.edu/abs/2019arXiv190201345H/abstract
+.. _Rein et. al. 2019: https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.5490R/abstract
